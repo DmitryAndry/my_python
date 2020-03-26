@@ -4,7 +4,7 @@
 #define M 3
 #define N 4
 
-void Ex9 (void)
+void Ex1 (void)
 {
     int results[N] = {INT_MAX};
     int m[M][N] = {{0,0,0,0},{0,0,0,0},{0,0,0,0}};
